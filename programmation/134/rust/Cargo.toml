@@ -1,0 +1,12 @@
+[package]
+name = "ep134"
+version = "0.1.0"
+authors = ["jonthn"]
+
+[dependencies]
+reqwest = "0.8"
+cookie = "0.10"
+kuchiki = "0.6.0"
+slog = "2.1"
+slog-term = "2.3"
+slog-async = "2.2"
